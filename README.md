@@ -1,1 +1,2 @@
-<i> Distribution & Logistics Managament System </i>
+<h6> Distribution & Logistics Managament System </h6>
+<li> Small-Medium Businesses </li>
