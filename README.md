@@ -5,5 +5,5 @@ A reaching set of management instruments for dealing with the whole work process
 
 <b>Reason of choice</b> 
 
-The motivation for chosing this software system idea, was the specific request from an already-established company of such kind. It was expressed that in the existing market there is already such a system but it is more oriented for very large-sized companies, hence  it offers an overcomplicated design. 
+The motivation for chosing this software system idea, was the specific request from an already-established company of such kind. It was expressed that in the existing market there is only one provider of this system and it is more oriented to very large-sized companies, hence  it offers an overcomplicated design. 
 This type of business is pretty dependent from labor work, thus our approach will be user-experience oriented, facilitating the process for workers that may not have such experience with applications such as drivers or warehouse employees, additionally adding a value to the performace measurement by the manager.
